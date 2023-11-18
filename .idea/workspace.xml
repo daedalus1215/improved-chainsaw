@@ -5,30 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45726a0d-02f0-437b-9fc9-1fef81cd6519" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/domain/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/testing/spock/domain/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/testing/spock/domain/Multiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/testing/spock/domain/billing/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/testing/spock/domain/billing/CreditCardBilling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/testing/spock/invoice/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/testing/spock/invoice/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/testing/spock/invoice/FinalInvoiceStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/testing/spock/invoice/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/main/java/com/testing/spock/invoice/PrinterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/test/groovy/com/testing/spock/domain/AdderSpec.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/test/groovy/com/testing/spock/domain/BetterSpec.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/test/groovy/com/testing/spock/domain/MultiplierSpec.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/test/groovy/com/testing/spock/domain/invoice/InvoiceMailingSpec.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/test/java/com/testing/spock/domain/AdderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/test/java/com/testing/spock/domain/BadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/src/test/java/com/testing/spock/domain/MultiplierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/main/java/com/manning/spock/chapter1/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/main/java/com/manning/spock/chapter1/Multiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/main/java/com/manning/spock/chapter1/billing/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/main/java/com/manning/spock/chapter1/billing/CreditCardBilling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/main/java/com/manning/spock/invoice/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/main/java/com/manning/spock/invoice/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/main/java/com/manning/spock/invoice/FinalInvoiceStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/main/java/com/manning/spock/invoice/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/main/java/com/manning/spock/invoice/PrinterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/test/groovy/com/manning/spock/chapter1/AdderSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/test/groovy/com/manning/spock/chapter1/BetterSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/test/groovy/com/manning/spock/chapter1/MultiplierSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/test/groovy/com/manning/spock/chapter1/invoice/InvoiceMailingSpec.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/test/java/com/manning/spock/chapter1/AdderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/test/java/com/manning/spock/chapter1/BadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/test/java/com/manning/spock/chapter1/MultiplierTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +55,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.17871094",
     "project.structure.side.proportion": "0.2",
@@ -76,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700275667321</updated>
-      <workItem from="1700275668490" duration="1378000" />
+      <workItem from="1700275668490" duration="1878000" />
     </task>
     <servers />
   </component>
